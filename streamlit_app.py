@@ -274,7 +274,7 @@ st.caption("NOTE: The :diamonds: location shows the reorder point.")
 
 # -----------------------------------------------------------------------------
 
-st.subheader("Best sellers", divider="orange")
+st.subheader("----Best sellers----", divider="orange")
 
 ""
 ""
